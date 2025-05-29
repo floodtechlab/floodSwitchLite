@@ -22,3 +22,13 @@ Once the project is published, the full build process will be shared on YouTube:
 - Most likely will be controlled via Blynk or a similar platform  
 
 > ℹ️ Information here may change. Final specs and system details will be published when the project is released.
+
+---
+
+## License
+
+This project is licensed under the [GNU GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html).  
+You are free to use, modify, and distribute this code.  
+For **commercial use**, you must:
+- Keep your source code open and under the same GPLv3 license
+- Clearly credit the original project: **FloodSwitch Lite by FloodTechLab**
